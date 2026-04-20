@@ -1,4 +1,10 @@
-DEADLINE: --/--/----
+DEADLINE: 01/06/2026
 ______________________
-* This is a to-do list
-* Very advanced
+* Calander Interface
+* Röda dager API
+* Väder API
+* Translation API
+* Currency exchange rate API
+* Try Android Build
+* Mic speech-to-text
+* Fancy UI (graphics and animations)
